@@ -11,7 +11,7 @@
 
 **Live Demo:** [MY TRACKER](https://my-tracker-lime.vercel.app/)
 
-\![Project Moonshot Screenshot](`./screenshot`)
+\![Project Moonshot Screenshot](`./screenshot.png`)
 
 ## The Philosophy: Embrace the Delusion
 
